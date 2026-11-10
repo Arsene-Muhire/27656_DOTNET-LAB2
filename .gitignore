@@ -1,0 +1,7 @@
+# Build output
+bin/
+obj/
+
+# Visual Studio cache and per-user files
+.vs/
+*.user
